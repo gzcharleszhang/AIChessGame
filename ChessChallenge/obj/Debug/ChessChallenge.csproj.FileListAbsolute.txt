@@ -1,1 +1,9 @@
-C:\Users\Jimmy\Source\Repos\ChessChallenge\ChessChallenge\ChessChallenge\bin\Debug\ChessChallenge.exe.config
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\bin\Debug\ChessChallenge.exe.config
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\bin\Debug\ChessChallenge.exe
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\bin\Debug\ChessChallenge.pdb
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.csprojResolveAssemblyReference.cache
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.View.resources
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.Properties.Resources.resources
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.csproj.GenerateResource.Cache
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.exe
+C:\Users\lixin\Documents\Visual Studio 2015\Projects\ChessChallenge\ChessChallenge\obj\Debug\ChessChallenge.pdb

@@ -14,7 +14,7 @@ namespace ChessChallenge
             //_image = Resources.;
         }
 
-        public override void IsValid(MainFrame frame, int x, int y)
+        public override void IsValid(MainForm frame, int x, int y)
         {
 
         }

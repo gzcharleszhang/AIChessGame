@@ -27,11 +27,11 @@ namespace ChessChallenge
             _color = color;
         }
 
-        public void GetValidSpaces(MainFrame frame)
+        public void GetValidSpaces(MainForm frame)
         {
-            for (int y = 0;y < MainFrame.MAX_LENGTH;++y)
+            for (int y = 0;y < MainForm.MAX_LENGTH;++y)
             {
-                for (int x = 0; x < MainFrame.MAX_LENGTH; ++x)
+                for (int x = 0; x < MainForm.MAX_LENGTH; ++x)
                 {
                     
                 }
@@ -44,6 +44,6 @@ namespace ChessChallenge
             _y = y;
         }
 
-        public abstract void IsValid(MainFrame frame, int x, int y);
+        public abstract void IsValid(MainForm frame, int x, int y);
     }
 }
